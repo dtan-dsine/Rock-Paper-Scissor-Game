@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args){
         double rand=Math.random();
         int min=0;
-        int max=3;
+        int max=3; //just a random commit...
         Scanner ts=new Scanner(System.in);
         System.out.println("Welcome to Rock Paper Scissors game built in Java.");
         System.out.println("Enter X anytime to exit from the game.");
